@@ -1,2 +1,2 @@
-# IR_ModelRework
+# IR-ModelRework
 Excellent park pack by @ZodiusInfuser
